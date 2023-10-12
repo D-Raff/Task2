@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(55, 192, 199);
+}
+
+table {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+}
